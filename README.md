@@ -1,2 +1,2 @@
-# automatetheboringstuff
-Learning the course automatetheboringstuff
+# Automate the Boring Stuff with Python
+Learning from Automate the Boring Stuff with Python
